@@ -1,8 +1,8 @@
 ### Welcome to 🐶 papawolf's Github 👋
 
-- 🌱 I’m currently learning ...
-🖥 genesis of code (in 42)
-🐣 algorithm study
+🌱 I’m currently learning ...
+- 🖥 genesis of code (in 42)
+- 🐣 algorithm study
 
 
 <!--
