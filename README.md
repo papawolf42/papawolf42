@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to 🐶 papawolf's Github 👋
+
+- 🌱 I’m currently learning ...
+🖥 genesis of code (in 42)
+🐣 algorithm study
+
 
 <!--
 **papawolf90/papawolf90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
