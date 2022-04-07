@@ -1,4 +1,4 @@
-[![gunkim's 42 stats](https://badge42.herokuapp.com/api/stats/gunkim)](https://github.com/JaeSeoKim/badge42)
+[![gunkim's 42 stats](https://badge42.vercel.app/api/v2/cl1p8w96l001109mtpvkvq4yk/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 ### Welcome to 🐶 papawolf's Github 👋
 
